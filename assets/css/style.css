@@ -778,6 +778,10 @@ section {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
+.skills {
+  padding-top: 4rem;
+  background-color: #fff;
+}
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
