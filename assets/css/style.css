@@ -1417,8 +1417,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #f16821;
+  border-bottom: 3px solid #f16821;
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -1427,11 +1427,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #47b2e4;
+  color: #f16821;
   float: left;
   width: 44px;
   height: 44px;
-  background: #e7f5fb;
+  background: #fffed7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1451,7 +1451,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color: #333;
 }
 
 .contact .info .email p {
@@ -1485,14 +1485,14 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #47b2e4;
+  background: #d65311;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #f16821;
+  border-bottom: 3px solid #f16821;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1569,7 +1569,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #47b2e4;
+  border-color: #f16821;
 }
 
 .contact .php-email-form input {
@@ -1581,7 +1581,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #47b2e4;
+  background: #f16821;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1590,7 +1590,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #209dd8;
+  background: #da530f;
 }
 
 @keyframes animate-loading {
@@ -1684,6 +1684,7 @@ section {
   border: 0;
   padding: 4px 8px;
   width: calc(100% - 100px);
+  outline: none;
 }
 
 #footer .footer-newsletter form input[type=submit] {
@@ -1695,7 +1696,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #47b2e4;
+  background: #f16821;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1703,7 +1704,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #209dd8;
+  background: #d65311;
 }
 
 #footer .footer-top {
@@ -1777,13 +1778,13 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #47b2e4;
+  color: #f16821;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #f16821;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1796,7 +1797,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #da530f;
   color: #fff;
   text-decoration: none;
 }
