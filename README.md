@@ -17,7 +17,7 @@ It is a product presented in the form of a website. Place for reporting on marke
 
 Take this example.
 ```git
-git clone https://github.com/suphawitz/clone-PlantiqueFigma.git
+git clone https://github.com/suphawitz/Muji-orangeProduct.git
 ```
 
 ## Template your project
